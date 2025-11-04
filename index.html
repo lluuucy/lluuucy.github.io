@@ -203,7 +203,7 @@
         if(!/^[^@\s]+@amherst\.edu$/i.test(email)){alert('Use a valid @amherst.edu email.');return;}
 
         const data = {firstName:f,lastName:l,email:email,scorePercent:result.percent,timestamp:new Date().toISOString()};
-        const SCRIPT_URL = 'https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec';
+        const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxp5DiJ10q7yWyMGj3nop6bz52LPw-TCAAwQ-ouQQFA5DfjeRuJbkimgIHKuf3p5I4K/exec';
 
         try {
           const res = await fetch(SCRIPT_URL, {
