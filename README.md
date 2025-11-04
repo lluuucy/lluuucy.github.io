@@ -1,5 +1,3 @@
-# lluuucy.github.io
-Green Purity Test
 <!doctype html>
 <html lang="en">
 <head>
@@ -110,9 +108,9 @@ Green Purity Test
 
   <script>
     const QUESTIONS = [
-      "Turn off the lights when leaving the room?",
-      "Use natural light from the window during the day?",
-      "Always unplug appliances/electronics when not in use?",
+      "Turn off the lights when leaving the room",
+      "Use natural light from the window during the day",
+      "Always unplug appliances/electronics when not in use",
       "Wash on cold?",
       "Wait to do laundry until the basket is full?",
       "Keep your windows closed when the heat is on?",
