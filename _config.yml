@@ -1,26 +1,4 @@
 title: Green Purity Test
 description: The Green Purity Test serves to track how sustainable your lifestyle is. Click on every item you do.
 url: "https://acgreenpuritytest.com"    # your custom domain
-baseurl: ""                             # leave blank unless your site is in a subfolder
 
-# Optional: if you also want to serve it under the default GitHub Pages domain
-# (e.g., username.github.io/greenpuritytest)
-# uncomment and edit this line
-# baseurl: "/greenpuritytest"
-
-# Theme (can use GitHub's default theme or a custom one)
-theme: jekyll-theme-minimal
-
-# Add a small logo or favicon
-#favicon: /assets/favicon.ico
-
-# Exclude unnecessary files from the site build
-#exclude:
-  - README.md
-  - node_modules/
-  - package.json
-  - package-lock.json
-
-# Optional social or metadata
-author: Amherst College Office of Sustainability
-#email: sustainability@amherst.edu
